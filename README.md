@@ -12,6 +12,15 @@
 # Conclusion
   Five heuristic approaches have been applied to score the sentiment values. i.e) word frequency, afinn, textblob, vader sentiment and manual scoring. Among those five approaches manual scoring performs well with 63.125% accuracy whereas textblob has poor performance with lowest score of 56.456%. We presented a proposal for classifying the Tamil movie reviews using supervised algorithms, namely SVM, Random Forest, Logistic regression and Multinomial Naive Bayes. Features are extracted and are given to the system for better classification and to improve the accuracy of the system. The accuracy of different classifiers with word feature are represented in the table. The Random Forest [RF] classifies better than other classifiers with more accuracy.
   
+# Result 
+
+![image](https://user-images.githubusercontent.com/94525493/217304378-cfbbb766-1e62-4f46-8fc4-81231aed1e58.png)
+
+Test a model for particular movie Reviews @ Sarpatta Parambarai movie
+
+![image](https://user-images.githubusercontent.com/94525493/217304761-252aa7f6-398b-4aef-93db-21448b0ce55c.png)
+
+  
 # Feature Enhancement
 
 	For future work, fine grained tagging can be done where, these reviews can be fine grained into very positive, positive, very negative, negative and neutral.
